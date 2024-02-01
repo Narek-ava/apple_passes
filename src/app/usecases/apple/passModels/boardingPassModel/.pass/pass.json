@@ -1,0 +1,23 @@
+{
+  "backgroundColor": "rgb(249,249,249)",
+  "foregroundColor": "rgb(0,0,0)",
+  "labelColor": "rgb(251, 179, 0)",
+  "logoText": "Kiwitaxi",
+  "boardingPass": {
+    "headerFields": [
+      {
+        "key": "title",
+        "label": "",
+        "value": "Booking data"
+      }
+    ],
+    "transitType": "PKTransitTypeGeneric"
+  },
+  "formatVersion": 1,
+  "description": "*Boarding Pass",
+  "en": {
+    "fromLabel": "sdfdsf"
+  }
+
+
+}

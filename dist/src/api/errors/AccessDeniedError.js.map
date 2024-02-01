@@ -1,0 +1,1 @@
+{"version":3,"file":"AccessDeniedError.js","sourceRoot":"","sources":["../../../../src/api/errors/AccessDeniedError.ts"],"names":[],"mappings":";;;AAAA,wEAAqE;AAErE,MAAa,iBAAkB,SAAQ,mCAAgB;IACrD;QACE,KAAK,CAAC,eAAe,EAAE,eAAe,CAAC,CAAC;IAC1C,CAAC;CACF;AAJD,8CAIC"}
